@@ -4,3 +4,4 @@ influxdb3/influxctl_v2.9.9_amd64.deb
 influxdb3/influxdb3-core_3.6.0-1_amd64.deb
 influxdb3/kapacitor_1.8.2-1_amd64.deb
 influxdb3/telegraf_1.36.3-1_amd64.deb
+astra_manager/astra_config.json
